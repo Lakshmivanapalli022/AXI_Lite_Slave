@@ -249,7 +249,8 @@ Thanks to the open-source FPGA and AXI communities for inspiration and technical
 ## Contact
 
 For questions or feedback, please contact:  
-**Divyajyoti Patra**  
-Email: djpatra07@gmail.com  
-LinkedIn: https://www.linkedin.com/in/divyajyoti-patra-185a13225/
+**Lakshmi Vanapalli**  
+Email: vanapallilakshmi12@gmail.com  
+LinkedIn:https://www.linkedin.com/in/lakshmi-vanapalli-ab29132b6/
+
 
